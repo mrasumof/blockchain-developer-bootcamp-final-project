@@ -6,7 +6,7 @@ The idea of this project is to create a platform where people can buy a share of
 Real estate investments usually require a big investment and therefore there are high barriers to entry for a regular person. I want to democratize the access to this profit
 making business.
 
-<h3High-level Process</h3>
+<h3>High-level Process</h3>
 This is a high level explanation of the business process
 
 <h4>Project Setup</h4>
