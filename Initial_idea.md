@@ -11,8 +11,8 @@ This is a high level explanation of the business process
 
 <h4>Project Setup</h4>
 <ul>
-  <li1> An opportunity project in Real Estate is dsicovered, a budget and project plan is created and published in a portal. The opportunity also includes how much is the minimum investment in the opportunity</l1>
-  <l2> This project generates an NFT with the property</l2>
-  <l3> Also it generates a smart contract, and mint tokens
-  <l4> Investors will be able to buy a percentage of the business by purchasing project tokens</l4> 
+  <li> An opportunity project in Real Estate is dsicovered, a budget and project plan is created and published in a portal. The opportunity also includes how much is the minimum investment in the opportunity</li>
+  <li> This project generates an NFT with the property</li>
+  <li> Also it generates a smart contract, and mint tokens</li>
+  <li> Investors will be able to buy a percentage of the business by purchasing project tokens</li> 
 </ul>
